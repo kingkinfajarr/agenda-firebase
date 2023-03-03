@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Login
+- email : candidate@deptechdigital.com
+- password : testInterview123!
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
